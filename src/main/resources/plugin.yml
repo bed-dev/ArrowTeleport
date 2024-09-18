@@ -1,0 +1,13 @@
+name: ArrowTeleport
+version: '${project.version}'
+main: codes.bed.ArrowTeleport
+api-version: 1.9
+prefix: Beds
+load: STARTUP
+authors: [Bed]
+description: A plugin that teleports players to the location where their arrow lands.
+website: bed.codes
+permissions:
+  arrow.teleport:
+    description: "Allows the player to use the arrow teleportation feature."
+    default: op
