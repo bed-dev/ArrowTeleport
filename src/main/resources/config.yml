@@ -1,5 +1,5 @@
 # Type of arrow to check. Options: "SpectralArrow", "Arrow", "TippedArrow"
-arrow-type: "SpectralArrow"
+projectile-type: "SpectralArrow"
 
 # Permission needed to use the teleport feature
 permission: "arrow.teleport"
